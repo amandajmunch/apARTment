@@ -46,8 +46,8 @@ In order to interact with the website, the user must have a login. Create a logi
 then you are brought to you profile page with your art and rooms. There, you can
 add art and rooms to your account, which will appear on the front page (the profile page). 
 
----
-### Wireframes
+Login credentials:
 
-
+user: amanda@amanda.com
+pw:   password
 
